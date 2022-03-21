@@ -21,5 +21,3 @@ No graphics are required for this program.  Instead, use a series of 0s (empty) 
 each state.  Every state generated should be output in this manner along with the current state’s heuristic, the number 
 of neighboring states with lower heuristics, and the action taken (restart or generate neighbor state).  When a solution is 
 reached, your program should display the number of restarts and the total number of state changes that have occurred.  
-A sample execution using 10 queens has been provided.   Your program output should match that format (except yours 
-will be 8x8).
